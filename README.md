@@ -40,6 +40,7 @@ Informe 4 "Fasores"
 	1.2 Objetivos Específicos
 
 	●	Identificar la forma correcta de la transformación entre la forma polar y rectangular que engloba el tema fasores.
+
 	●	Calcular y comparar los resultados generados analíticos con una calculadora científica y con los resultados analíticos con una calculadora online
 
 3.	Marco Teórico 
@@ -51,6 +52,7 @@ Informe 4 "Fasores"
       
 
 5.	Lista De Componentes 
+
   5.1 	Explicación
 	 
 
@@ -66,14 +68,17 @@ Informe 4 "Fasores"
 
 	●	Hemos de lograr mejor nuestra visión o conocimiento acerca del tema fasores, el cual se pudo reforzar mediante ejercicios básicos resueltos y de esta manera poder despejar cualquier duda generada en nuestros compañeros.
 
+
 11. Conclusiones. 
 
 	●	Un fasor puede considerarse como un equivalente matemático de una senoide son la dependencia del tiempo.
+
 	●	Utilizar fasores nos dan un marco de referencia en la frecuencia para hacer más fácil el análisis de circuitos eléctricos en corriente alterna excitados por fuentes sinusoidales.
-	●	Se da a conocer una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica. Observando en el mismo que con la implementación de los fasores se pueden simplificar expresiones complejas, como pueden ser ecuaciones diferenciales, en simples cálculos
+
+	●	Se da a conocer una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica. Observando en el mismo que con la implementación de los fasores se pueden simplificar expresiones complejas, como pueden ser ecuaciones diferenciales, en simples cálculos.
+
 
 12. Bibliografía. 
 
 13. Anexos
-
 
