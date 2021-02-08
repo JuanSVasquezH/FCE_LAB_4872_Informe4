@@ -48,24 +48,30 @@ Informe 4 "Fasores"
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/MT.png)
       
       
+      
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/MT1.png)
 
 4.	Diagramas 
  
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/DF1.png)
       
+      1. Representación Gráfica (Inductores,Capacitores, Resistores). 
+      
       
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F1.png)
+      
+      2. Representación Mtaematica (Voltaje & Corriente).
       
       
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F2.png)
       
+      3. Representación Gráfica (Numeros Complejos).
       
       
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/O1.png)
       
-      
-      
+      4. Formas Matemáticas para resolver ejercicios con números Complejos de la forma "Z=a + bi".
+            
 
 5.	Lista De Componentes 
 
