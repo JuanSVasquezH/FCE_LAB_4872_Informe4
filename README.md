@@ -73,6 +73,7 @@ Informe 4 "Fasores"
       4. Formas Matemáticas para resolver ejercicios con números Complejos de la forma "Z=a + bi".
             
 
+
 5.	Lista De Componentes 
 
   5.1 	Explicación
