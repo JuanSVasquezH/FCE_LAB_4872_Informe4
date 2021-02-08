@@ -75,6 +75,7 @@ Informe 4 "Fasores"
             
 
 5.	Lista De Componentes 
+       - Calculadora Cientifica (Symbolab) https://es.symbolab.com/solver/complex-number-calculator
 
   5.1 	Explicación
 	 
@@ -157,3 +158,10 @@ Paso 10.	Repetiremos los procedimientos de los literales anteriores y resolvemos
 
     - Link del Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/Video%20Fasores.txt.
     - Los calculos detallados se encuentran en Anexos. https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/LAB4_FCE.pdf
+    - Comprobacion Ejercicios: 
+    
+    3. https://es.symbolab.com/solver/complex-number-calculator/%5Cfrac%7B34%2B28.5i%7D%7B3.74-1.42i%7D-%5Cleft(-41.94-29.37i%5Cright)
+    
+    2. https://es.symbolab.com/solver/complex-number-calculator/%5Cleft(-3.93%2B5.55i%5Cright)%2B%5Cfrac%7B4.41-0.90i%7D%7B7.6-1.2i%7D 
+    
+    1. https://es.symbolab.com/solver/complex-number-calculator/%5Cfrac%7B10%2B3i%7D%7B2i%7D-%5Cleft(7%2B2i%5Cright)%5Cleft(-1.27%20-2.72i%5Cright)
