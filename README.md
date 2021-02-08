@@ -63,7 +63,7 @@ Informe 4 "Fasores"
       2. Representación Mtaematica (Voltaje & Corriente).
       
       
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F2.png)
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F2.gif)
       
       3. Representación Gráfica (Numeros Complejos).
       
@@ -72,7 +72,6 @@ Informe 4 "Fasores"
       
       4. Formas Matemáticas para resolver ejercicios con números Complejos de la forma "Z=a + bi".
             
-
 
 5.	Lista De Componentes 
 
