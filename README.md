@@ -1,6 +1,7 @@
 # FCE_LAB_4872_Informe4
 Informe 4 "Fasores"                                                     
 
+
                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
                                                    DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
@@ -118,8 +119,9 @@ Paso 10.	Repetiremos los procedimientos de los literales anteriores y resolvemos
 
 7. Descripción De Prerrequisitos Y Configuración.
 
-Conocer las diversas funcionalidades que presenta cada uno de los modelos de calculadoras científicas que vienen determinados de cuerdo al fabricante y debemos considerar el truncamiento de datos en cuando a los decimales de estación que obtenemos.
-Conocer las diversas páginas de resolución y transformación de fasores de acuerdo con la necesidad que tengamos.
+     - Conocer las diversas funcionalidades que presenta cada uno de los modelos de calculadoras científicas que vienen determinados de cuerdo al fabricante y debemos considerar el truncamiento de datos en cuando a los decimales de estación que obtenemos.
+
+     - Conocer las diversas páginas de resolución y transformación de fasores de acuerdo con la necesidad que tengamos.
 
 8. Tabulación de Datos.
 
