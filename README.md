@@ -106,6 +106,8 @@ Informe 4 "Fasores"
 
 9. Cálculos.
 
+     - Los calculos detallados se encuentran en Anexos. https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/LAB4_FCE.pdf
+
 10. Aportaciones. 
 
 	●	Hemos de lograr mejor nuestra visión o conocimiento acerca del tema fasores, el cual se pudo reforzar mediante ejercicios básicos resueltos y de esta manera poder despejar cualquier duda generada en nuestros compañeros.
