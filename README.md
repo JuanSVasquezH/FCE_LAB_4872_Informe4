@@ -81,26 +81,45 @@ Informe 4 "Fasores"
 6.      Procedimiento.
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/a.PNG) 
 
+1)	Planteamos las fórmulas correspondientes para ver cada una de las variables dependientes e independientes el cual me permite el cambio de rectangulares a polares.
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/b.PNG)		
 
+2)	A partir del ejercicio dado verificamos las variables y reemplazamos, usamos una calculadora científica y obtenemos el radio y el ángulo de forma polar.
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/c.PNG)
 
+3)	Repetiremos el procedimiento del literal 2 y resolvemos los siguientes ejercicios planteados 
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/d.PNG)
 
+4)	Planteamos las fórmulas correspondientes para ver cada una del radio el ángulo el cual me permite el cambio de polares a rectangulares.
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/e.PNG)
 
+5)	A partir del ejercicio dado verificamos las variables y reemplazamos, usamos una calculadora científica y obtenemos el punto x la parte real e y la parte imaginaria (j) del ejercicio.
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/f.PNG)
 
+6)	Repetiremos el procedimiento del literal 5 y resolvemos los siguientes ejercicios planteados. 
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/g.PNG)
 
+7)	Planteamos las fórmulas necesarias para los varios cambios que realizaremos, transformaremos en polar en numerador y el denominador de la fracción y también el multiplicando para poder aplicar operaciones básicas con polares que permite una mejor resolución y facilidad al mismo.
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/h.PNG)
+
+8)	Resolvemos la división la parte del radio del numerador con la parte radio del denominador y en la parte angular se deben restar.
+
+9)	Resolvemos la multiplicación las partes del radio se multiplican mientras que, la parte angular se deben sumar.
+
+10)	Repetiremos los procedimientos de los literales anteriores y resolvemos los siguientes ejercicios planteados.
 
 7. Descripción De Prerrequisitos Y Configuración.
+
+Conocer las diversas funcionalidades que presenta cada uno de los modelos de calculadoras científicas que vienen determinados de cuerdo al fabricante y debemos considerar el truncamiento de datos en cuando a los decimales de estación que obtenemos.
+Conocer las diversas páginas de resolución y transformación de fasores de acuerdo con la necesidad que tengamos.
 
 8. Tabulación de Datos.
 
