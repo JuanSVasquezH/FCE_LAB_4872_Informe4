@@ -57,7 +57,27 @@ Informe 4 "Fasores"
 	 
 
 6.      Procedimiento.
-      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/a.PNG) 
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/b.PNG)		
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/c.PNG)
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/d.PNG)
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/e.PNG)
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/f.PNG)
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/g.PNG)
+
+
 7. Descripción De Prerrequisitos Y Configuración.
 
 8. Tabulación de Datos.
@@ -81,4 +101,5 @@ Informe 4 "Fasores"
 12. Bibliografía. 
 
 13. Anexos
+
 
