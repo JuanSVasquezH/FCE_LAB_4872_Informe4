@@ -1,6 +1,7 @@
 # FCE_LAB_4872_Informe4
-Informe 4 "Fasores"
-                                                      UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
+Informe 4 "Fasores"                                                     
+
+
 
                                                    DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
 
