@@ -120,7 +120,15 @@ Informe 4 "Fasores"
 	●	Se da a conocer una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica. Observando en el mismo que con la implementación de los fasores se pueden simplificar expresiones complejas, como pueden ser ecuaciones diferenciales, en simples cálculos.
 
 
-12. Bibliografía. 
+12. Bibliografía.
+
+- Dorf.R (2020).Fasores, recuperado de: https://tecdigital.tec.ac.cr/repo/rea/electronica/el-2114/un_1/14_el_concepto_de_fasor_y_diagrama_fasorial.html.
+
+- Obando.L (2019). Representación Fasorial de corrientes y voltajes, recuperado de: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/#:~:text=A%20este%20vector%20radial%20se,la%20funci%C3%B3n%20seno%20o%20coseno.
+
+- Borgett.M (2020). Corriente Alterna-Fasores,recuperado de: https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/UTN-CORRIENTE%20ALTERNA.pdf.
+
+- Charles K. Alexander, M. N. (2006). Corriente Alterna-Fasores,recuperado de: http://circuitoselectricosac.blogspot.com/p/12-fasores.html.
 
 13. Anexos
 
