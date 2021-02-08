@@ -155,3 +155,5 @@ Paso 10.	Repetiremos los procedimientos de los literales anteriores y resolvemos
 
 13. Anexos
 
+    - Link del Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/Video%20Fasores.txt.
+    - Los calculos detallados se encuentran en Anexos. https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/LAB4_FCE.pdf
