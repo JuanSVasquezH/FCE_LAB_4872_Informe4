@@ -75,7 +75,11 @@ Informe 4 "Fasores"
             
 
 5.	Lista De Componentes 
-       - Calculadora Cientifica (Symbolab) https://es.symbolab.com/solver/complex-number-calculator
+       - Calculadora Cientifica (Symbolab) https://es.symbolab.com/solver/complex-number-calculator.
+       
+      Mediante esta calculadora Realizamos la comprobacion de los ejercicios, la cual es una herramienta muy completa y facil de usar en los temas de números complejos 
+       
+      - Calculadora Casio fx350: Mediante esta calculadora realizamos los calculos paso a paso para obtener una respuesta mas exacta ya que se realizo la aproximación de los decimales en las respuestas.
 
   5.1 	Explicación
 	 
