@@ -45,10 +45,26 @@ Informe 4 "Fasores"
 
 3.	Marco Teórico 
 
-
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/MT.png)
+      
+      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/MT1.png)
 
 4.	Diagramas 
  
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/DF1.png)
+      
+      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F1.png)
+      
+      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/F2.png)
+      
+      
+      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/O1.png)
+      
+      
       
 
 5.	Lista De Componentes 
