@@ -130,6 +130,11 @@ Paso 10.	Repetiremos los procedimientos de los literales anteriores y resolvemos
 
 8. Tabulación de Datos.
 
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/1.PNG)
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/ImagenesInforme/2.PNG)
+
+
 9. Cálculos.
 
      - Los calculos detallados se encuentran en Anexos. https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe4/blob/main/Anexos/LAB4_FCE.pdf
